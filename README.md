@@ -18,7 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com sólida base té
     * *Instituição:* Universidade Cruzeiro do Sul
     * *Período:* 1º Semestre (Previsão de conclusão: Dezembro de 2027)
 * **Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas**
-    *Instituição:* Humberto de Alencar Castelo Branco
+    * *Instituição:* Humberto de Alencar Castelo Branco
     * *Conclusão:* Dezembro de 2024
 
 ###  Desenvolvimento Profissional & Cursos
